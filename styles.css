@@ -1,0 +1,85 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/7c/1c/44/7c1c44c93cc99b54805fac682365061e.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Courier New', Courier, monospace;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: 100vh;
+}
+
+.card {
+    background-image: url("https://i.pinimg.com/originals/e6/7f/1c/e67f1cbab0e6c1585f3ce5a7da27bb4a.gif");
+    border-radius: 20px;
+    text-align: center;
+    padding: 30px;
+    max-width: 400 px;
+    box-shadow:10px 10px 10px #9b8466;
+}
+
+.card h1 {
+    color: #d8aa4e;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.card p {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: #d8aa4e;
+}
+
+input {
+    width: 50%;
+    padding: 10px;
+    border: 2px solid #e3b667;
+    background-color: #3f3f3f;
+    color: rgb(243, 243, 243);
+    border-radius: 10px;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 15px;
+    outline: none;
+    box-shadow:5px 5px 5px #141414;
+}
+
+button {
+    background-color: rgb(155, 125, 92);
+    width: 200px;
+    height: 50px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    box-shadow:5px 5px 5px #141414;
+}
+
+button:hover {
+    background-color: #71532f;}
+
+.fortuna-img {
+    width:500px;
+    height: 200px;
+    max-width: 100%;
+    border-radius: 12px;
+    display: block;
+    margin: 15px auto 0;
+}
+
+.msg-vacio {
+    color: #d8aa4e;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+
+}
+
+.msg-ok {
+    color: #d8aa4e;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+}
