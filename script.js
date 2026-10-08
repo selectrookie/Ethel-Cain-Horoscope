@@ -4,14 +4,15 @@ const errorImages = [
 ]
 
 const ethels = [
-  "images/ethel1.jpg",
-  "images/ethel_2.png",
-  "images/ethel-cain4.jpg",
-  "images/ethel-cain5.jpg",
-  "images/ethel-cain7.jpg",
-  "images/ethel8.png",
-  "images/ethel9.png",
+  "https://i.postimg.cc/X7NQRH81/ethel1.jpg",
+  "https://i.postimg.cc/B6cByHPp/ethel-2.png",
+  "https://i.postimg.cc/fRG7RBx8/ethel-cain4.jpg",
+  "https://i.postimg.cc/8CdvPDkG/ethel-cain5.jpg",
+  "https://i.postimg.cc/j22nX7H2/ethel-cain7.jpg",
+  "https://i.postimg.cc/zGKb05gC/ethel8.png",
+  "https://i.postimg.cc/Qd190sTb/ethel9.png",
 ];
+
 
 const validZodiacs = [
   "aries", "tauro", "gmini", "cancer", "leo", "virgo", 
