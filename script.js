@@ -30,7 +30,7 @@ function getEthel() {
     if (!sign) {
         resultElement.className = "result msg-vacio";
         resultElement.innerHTML = `<strong>Girl... type something</strong><br>
-      <img src="images/ethel-cain-cain.png" class="fortuna-img" alt="Error campo vacío">`;
+     <img src="https://i.postimg.cc/28YPV7xd/ethel-cain-cain.png" class="fortuna-img" alt="Error campo vacío">`;
         return; 
     }
     
@@ -38,7 +38,7 @@ function getEthel() {
        
         resultElement.className = "result msg-vacio";
         resultElement.innerHTML = `<strong>Oh- you need to learn how to write... Try again!</strong><br>
-      <img src="images/ethel-cain.gif" class="fortuna-img" alt="Error campo vacío">`;
+      <img src="https://i.postimg.cc/15yj959B/ethel-cain.gif" class="fortuna-img" alt="Error campo vacío">`;
         return;  
     }
 
